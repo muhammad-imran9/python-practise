@@ -8,4 +8,4 @@ sum=0
 for i in range(num,1,-1):
     product=product*(i)
     
-print(f"factorial of a {num} is {product}")
+print(f"factorial of a {num} is {product}") 
